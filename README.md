@@ -88,11 +88,16 @@ Truck Delivery Risk = ABS(SUM('Data Table'[Available Bikes]) - SUM('Data Table'[
 
 •	**Incentive Scatter Evaluation:** A detailed distribution matrix graphing Available Bikes against Available Bike Stands, split completely by Bonus status to assess network equilibrium.
 
+<img width="936" height="495" alt="Dashboard1" src="https://github.com/user-attachments/assets/212145c3-af7a-40ba-94d2-85a1c0c6b736" />
+
 
 ### ⚠️ Dashboard 2: Shortage Risk Projections
 
 
 •	**Risk Ranking:** Ranked clustered bar chart pinpointing urban sectors exceeding boundaries with maximum 1.00 Parking Shortage Risk Scores.
+
+
+<img width="887" height="492" alt="Dashboard2" src="https://github.com/user-attachments/assets/53fd6fe4-17a5-4f0f-84cc-ef9da9e5efa8" />
 
 
 ### 🚚 Dashboard 3: Logistical Dispatch Toolkit
@@ -103,6 +108,8 @@ Truck Delivery Risk = ABS(SUM('Data Table'[Available Bikes]) - SUM('Data Table'[
 •	**Clearance Grid:** Top-10 target checklist isolating completely full docks at 1.00 Shortage Risk.
 
 •	**Truck Delivery Matrix:** An operational table calculating absolute volumetric deviation (Truck Delivery Risk) by unique station names to schedule fleet drop-offs.
+
+<img width="884" height="501" alt="Dashboard3" src="https://github.com/user-attachments/assets/8596524b-d11e-491d-86b5-705de9500be2" />
 
 
 ## 💡 Key Insights
